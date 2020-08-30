@@ -1,0 +1,10 @@
+.search {
+    min-height: 6vh;
+    width: 40%;
+    margin: 0 auto;
+    position: absolute;
+    right: 8.5vw;
+    top: 15vh;
+    box-shadow: inset .5px .5px #000;
+}
+

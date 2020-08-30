@@ -1,0 +1,8 @@
+.layout {
+  
+    margin: 4vh 5vw 3vh 0;
+    text-align: center;
+    padding-bottom: 1vh;
+    position: relative;
+    display: flex;
+}

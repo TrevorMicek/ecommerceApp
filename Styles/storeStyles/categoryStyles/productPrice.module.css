@@ -1,0 +1,15 @@
+.style {
+        font-family:Courier, monospace;
+        position: absolute;
+        padding-top: 5vh;
+        margin: 0 auto;
+        top: 31.5vh;
+        left: 45%;
+        transform: translate(-50%, -50%);
+        z-index: 3;
+        font-size: 1.4em;
+        color: #000;
+    }
+    .style h4 {
+        font-weight: normal;
+    }

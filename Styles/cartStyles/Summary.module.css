@@ -1,0 +1,46 @@
+.layout {
+    position: relative;
+    right: 5vw;
+    top: 0;
+    width: 40vw;
+    height: 70vh;
+    
+    border: 2px dotted black;
+    }
+    .title {
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        margin: 0 auto;
+        top: 3vh;
+        width: 18vw;
+        font-size: 1.65em;
+        cursor: pointer;
+    }
+    .itemWrapper {
+        border: 1px solid red;
+        height: 5vh;
+        width: 33vw;
+        margin: 0 auto;
+        margin-top: 10vh;
+        display: flex;
+    }
+    .product {
+        width: 11vw;
+        margin: auto 5vw;
+    }
+    .price {
+        width: 11vw;
+        margin: auto 5vw;
+    }
+    .quantity {
+        width: 11vw;
+        margin: auto 0;
+    }
+.productItems {
+    height: 20vh;
+    width: 33vw;
+    border: 5px solid black;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 5vh;
+}

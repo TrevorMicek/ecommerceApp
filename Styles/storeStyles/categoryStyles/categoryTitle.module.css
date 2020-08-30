@@ -1,0 +1,17 @@
+.title {
+    font-family: ariel, "Times New Roman", calibre;
+    position: absolute;
+    margin: 0 auto;
+    top: 4vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+}
+.title button {
+    font-size: 1.4em;
+    background: none;
+    border: none;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+    cursor: pointer;
+}

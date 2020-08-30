@@ -1,0 +1,9 @@
+.layout {
+    border: 2px dotted #000;
+    position: relative;
+    left: 0;
+    min-height: 90%;
+    max-width: 15%;
+    padding: 3vh 2vw 0 2vw;
+    top: 0;
+}

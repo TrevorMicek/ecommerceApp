@@ -1,0 +1,9 @@
+.layout {
+    max-width: 20.5vw;
+    height: 30vh;
+    margin: 6vh 3vw 2vh 0vw;
+    text-align: center;
+    padding-bottom: 1vh;
+    position: relative;
+    display: flex;
+}
